@@ -1,0 +1,11 @@
+.markdown-content {
+  text-align: left;
+}
+.markdown-content p {
+  line-height: 150%;
+}
+.markdown-content code {
+  display: block;
+  background-color: #efefef;
+  padding: 1%;
+}
